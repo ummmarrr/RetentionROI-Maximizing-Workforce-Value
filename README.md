@@ -57,6 +57,7 @@ B --> C[Feature Engineering]
 C --> D[Model Training]
 D --> E[SQL Server]
 ```
+<!-- This is a comment in Markdown
 
 ### Repository Structure  
 ```
@@ -80,7 +81,7 @@ D --> E[SQL Server]
 │   └── ethical_guidelines.md            # AI fairness protocols
 └── requirements.txt                     # Python dependencies
 ```
-
+ -->
 ## 💡 How to Implement  
 
 ### 0. Dataset Download via Kaggle API
